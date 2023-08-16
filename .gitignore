@@ -1,0 +1,6 @@
+# Script Output files
+/output/*
+!/output/.gitkeep
+
+# Configuration File
+config.sh
